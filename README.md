@@ -14,7 +14,7 @@ Get the latest updates regarding COVID19 India
  <table>
  
   <tr>
-            <td><img src = "app/Screenshots/1.png" height = "480" width="270"></td>
+            <td><img src = "sc.png" height = "480" width="270"></td>
             
   </tr>
   
